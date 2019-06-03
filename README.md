@@ -1,1 +1,1 @@
-'Tis my Noobie Firs Repo
+'Tis my Noobie First Repo
